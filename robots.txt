@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://https://ragdoll-archers1/sitemap.xml
